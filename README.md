@@ -8,7 +8,7 @@
 開発したプロダクトの説明を入力してください
 
 ## チーム名
-TeamD XXXX
+TeamD 鎌田波久藍
 チーム名を入力してください
 
 ## 背景・課題・解決されること
@@ -25,7 +25,7 @@ TeamD XXXX
 開発したプロダクトの中で、特に注力して作成した箇所・ポイントについて入力してください
 
 ## 使用技術
-使用技術を入力してください
+現在話し合い中
 
 markdownの記法はこちらを参照してください↓
 https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
